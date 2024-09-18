@@ -1,0 +1,15 @@
+{
+  "name": "milestone5",
+  "version": "1.0.0",
+  "description": "Static Resume Builder by Umme Roman",
+  "main": "dist/script.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "author": "Umme Roman",
+  "license": "MIT"
+}
